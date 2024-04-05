@@ -1,0 +1,2944 @@
+[
+ {
+  "Estado": "RS",
+  "Destino Turístico": "Rolante",
+  "Aeroporto ": "POA",
+  "Distância": 92
+ },
+ {
+  "Destino Turístico": "Riozinho",
+  "Aeroporto ": "POA",
+  "Distância": 106
+ },
+ {
+  "Destino Turístico": "Gramado",
+  "Aeroporto ": "CXJ",
+  "Distância": 66
+ },
+ {
+  "Destino Turístico": "Canela",
+  "Aeroporto ": "CXJ",
+  "Distância": 73
+ },
+ {
+  "Destino Turístico": "Bento Gonçalves",
+  "Aeroporto ": "CXJ",
+  "Distância": 46
+ },
+ {
+  "Destino Turístico": "Torres",
+  "Aeroporto ": "POA",
+  "Distância": 186
+ },
+ {
+  "Destino Turístico": "Três Coroas",
+  "Aeroporto ": "POA",
+  "Distância": 92
+ },
+ {
+  "Destino Turístico": "Cambará do Sul",
+  "Aeroporto ": "CXJ",
+  "Distância": 137
+ },
+ {
+  "Destino Turístico": "Machadinho",
+  "Aeroporto ": "XAP",
+  "Distância": 181
+ },
+ {
+  "Destino Turístico": "São Miguel das Missões",
+  "Aeroporto ": "CXJ",
+  "Distância": 463
+ },
+ {
+  "Destino Turístico": "Antonio Prado",
+  "Aeroporto ": "CXJ",
+  "Distância": 57
+ },
+ {
+  "Destino Turístico": "São Francisco de Paula",
+  "Aeroporto ": "POA",
+  "Distância": 114
+ },
+ {
+  "Destino Turístico": "Nova Petropolis",
+  "Aeroporto ": "CXJ",
+  "Distância": 32
+ },
+ {
+  "Destino Turístico": "Capão da Canoa",
+  "Aeroporto ": "POA",
+  "Distância": 135
+ },
+ {
+  "Destino Turístico": "Tramandai",
+  "Aeroporto ": "POA",
+  "Distância": 116
+ },
+ {
+  "Destino Turístico": "Novo Hamburgo",
+  "Aeroporto ": "POA",
+  "Distância": 37
+ },
+ {
+  "Destino Turístico": "São Leopoldo",
+  "Aeroporto ": "POA",
+  "Distância": 28
+ },
+ {
+  "Destino Turístico": "Caxias do Sul",
+  "Aeroporto ": "CXJ",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Lajeado",
+  "Aeroporto ": "CXJ",
+  "Distância": 103
+ },
+ {
+  "Destino Turístico": "Santa Cruz do Sul",
+  "Aeroporto ": "POA",
+  "Distância": 151
+ },
+ {
+  "Destino Turístico": "Santana do Livramento",
+  "Aeroporto ": "POA",
+  "Distância": 492
+ },
+ {
+  "Destino Turístico": "Arroio do Sal",
+  "Aeroporto ": "POA",
+  "Distância": 162
+ },
+ {
+  "Destino Turístico": "Osorio",
+  "Aeroporto ": "POA",
+  "Distância": 97
+ },
+ {
+  "Destino Turístico": "Cidreira",
+  "Aeroporto ": "POA",
+  "Distância": 134
+ },
+ {
+  "Destino Turístico": "Chui",
+  "Aeroporto ": "PET",
+  "Distância": 265
+ },
+ {
+  "Destino Turístico": "Alegrete",
+  "Aeroporto ": "RIA",
+  "Distância": 231
+ },
+ {
+  "Destino Turístico": "Santo Angelo",
+  "Aeroporto ": "RIA",
+  "Distância": 221
+ },
+ {
+  "Destino Turístico": "Farroupilha",
+  "Aeroporto ": "CXJ",
+  "Distância": 20
+ },
+ {
+  "Destino Turístico": "Montenegro",
+  "Aeroporto ": "POA",
+  "Distância": 59
+ },
+ {
+  "Destino Turístico": "Viamão",
+  "Aeroporto ": "POA",
+  "Distância": 18
+ },
+ {
+  "Destino Turístico": "Porto Alegre",
+  "Aeroporto ": "POA",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Passo Fundo",
+  "Aeroporto ": "XAP",
+  "Distância": 180
+ },
+ {
+  "Destino Turístico": "Ametista do Sul",
+  "Aeroporto ": "XAP",
+  "Distância": 93
+ },
+ {
+  "Destino Turístico": "Pelotas",
+  "Aeroporto ": "PET",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Encantado",
+  "Aeroporto ": "CXJ",
+  "Distância": 103
+ },
+ {
+  "Destino Turístico": "Veranopolis",
+  "Aeroporto ": "CXJ",
+  "Distância": 85
+ },
+ {
+  "Destino Turístico": "Garibaldi",
+  "Aeroporto ": "CXJ",
+  "Distância": 41
+ },
+ {
+  "Destino Turístico": "Flores da Cunha",
+  "Aeroporto ": "CXJ",
+  "Distância": 23
+ },
+ {
+  "Estado": "SC",
+  "Destino Turístico": "Balneário Gaivota",
+  "Aeroporto ": "CCM",
+  "Distância": 64
+ },
+ {
+  "Destino Turístico": "Turvo",
+  "Aeroporto ": "CCM",
+  "Distância": 38
+ },
+ {
+  "Destino Turístico": "Sombrio",
+  "Aeroporto ": "CCM",
+  "Distância": 57
+ },
+ {
+  "Destino Turístico": "Treviso",
+  "Aeroporto ": "CCM",
+  "Distância": 31
+ },
+ {
+  "Destino Turístico": "Balneário Rincão",
+  "Aeroporto ": "CCM",
+  "Distância": 31
+ },
+ {
+  "Destino Turístico": "Orleans",
+  "Aeroporto ": "CCM",
+  "Distância": 49
+ },
+ {
+  "Destino Turístico": "Lauro Muller",
+  "Aeroporto ": "CCM",
+  "Distância": 50
+ },
+ {
+  "Destino Turístico": "Nova Veneza",
+  "Aeroporto ": "CCM",
+  "Distância": 16
+ },
+ {
+  "Destino Turístico": "Garopaba",
+  "Aeroporto ": "FLN",
+  "Distância": 86
+ },
+ {
+  "Destino Turístico": "Florianopolis",
+  "Aeroporto ": "FLN",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Imbituba",
+  "Aeroporto ": "FLN",
+  "Distância": 106
+ },
+ {
+  "Destino Turístico": "Gaspar",
+  "Aeroporto ": "NVT",
+  "Distância": 42
+ },
+ {
+  "Destino Turístico": "Laguna",
+  "Aeroporto ": "CCM",
+  "Distância": 101
+ },
+ {
+  "Destino Turístico": "Tubarão",
+  "Aeroporto ": "JJG",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "São Carlos",
+  "Aeroporto ": "XAP",
+  "Distância": 53
+ },
+ {
+  "Destino Turístico": "Urussanga",
+  "Aeroporto ": "JJG",
+  "Distância": 36
+ },
+ {
+  "Destino Turístico": "Anita Garibaldi",
+  "Aeroporto ": "XAP",
+  "Distância": 258
+ },
+ {
+  "Destino Turístico": "Urubici",
+  "Aeroporto ": "JJG",
+  "Distância": 135
+ },
+ {
+  "Destino Turístico": "São Joaquim",
+  "Aeroporto ": "CCM",
+  "Distância": 120
+ },
+ {
+  "Destino Turístico": "Campo Belo do Sul",
+  "Aeroporto ": "FLN",
+  "Distância": 295
+ },
+ {
+  "Destino Turístico": "Santo Amaro da Imperatriz",
+  "Aeroporto ": "FLN",
+  "Distância": 45
+ },
+ {
+  "Destino Turístico": "Rio Rufino",
+  "Aeroporto ": "FLN",
+  "Distância": 201
+ },
+ {
+  "Destino Turístico": "Lages",
+  "Aeroporto ": "CCM",
+  "Distância": 200
+ },
+ {
+  "Destino Turístico": "Urupema",
+  "Aeroporto ": "JJG",
+  "Distância": 182
+ },
+ {
+  "Destino Turístico": "Tangará",
+  "Aeroporto ": "XAP",
+  "Distância": 203
+ },
+ {
+  "Destino Turístico": "Treze Tilhas",
+  "Aeroporto ": "XAP",
+  "Distância": 184
+ },
+ {
+  "Destino Turístico": "Videira",
+  "Aeroporto ": "XAP",
+  "Distância": 215
+ },
+ {
+  "Destino Turístico": "Joaçaba",
+  "Aeroporto ": "XAP",
+  "Distância": 163
+ },
+ {
+  "Destino Turístico": "Chapecó",
+  "Aeroporto ": "XAP",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Xanxerê",
+  "Aeroporto ": "XAP",
+  "Distância": 56
+ },
+ {
+  "Destino Turístico": "Xaxim",
+  "Aeroporto ": "XAP",
+  "Distância": 38
+ },
+ {
+  "Destino Turístico": "Formosa do Sul",
+  "Aeroporto ": "XAP",
+  "Distância": 79
+ },
+ {
+  "Destino Turístico": "Maravilha",
+  "Aeroporto ": "XAP",
+  "Distância": 98
+ },
+ {
+  "Destino Turístico": "União do Oeste",
+  "Aeroporto ": "XAP",
+  "Distância": 82
+ },
+ {
+  "Destino Turístico": "Descanso",
+  "Aeroporto ": "XAP",
+  "Distância": 143
+ },
+ {
+  "Destino Turístico": "Monte Castelo",
+  "Aeroporto ": "CWB",
+  "Distância": 184
+ },
+ {
+  "Destino Turístico": "Tres Barras",
+  "Aeroporto ": "JOI",
+  "Distância": 189
+ },
+ {
+  "Destino Turístico": "Timbo",
+  "Aeroporto ": "NVT",
+  "Distância": 78
+ },
+ {
+  "Destino Turístico": "Mafra",
+  "Aeroporto ": "CWB",
+  "Distância": 118
+ },
+ {
+  "Destino Turístico": "Barra Velha",
+  "Aeroporto ": "NVT",
+  "Distância": 35
+ },
+ {
+  "Destino Turístico": "São Bento do Sul",
+  "Aeroporto ": "JOI",
+  "Distância": 78
+ },
+ {
+  "Destino Turístico": "São Francisco do Sul",
+  "Aeroporto ": "JOI",
+  "Distância": 55
+ },
+ {
+  "Destino Turístico": "Joinville",
+  "Aeroporto ": "JOI",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Jaragua do Sul",
+  "Aeroporto ": "JOI",
+  "Distância": 53
+ },
+ {
+  "Destino Turístico": "Atalanta",
+  "Aeroporto ": "NVT",
+  "Distância": 183
+ },
+ {
+  "Destino Turístico": "Braço do Trombudo",
+  "Aeroporto ": "NVT",
+  "Distância": 177
+ },
+ {
+  "Destino Turístico": "Brusque",
+  "Aeroporto ": "NVT",
+  "Distância": 52
+ },
+ {
+  "Destino Turístico": "Indaial",
+  "Aeroporto ": "NVT",
+  "Distância": 73
+ },
+ {
+  "Destino Turístico": "Blumenau",
+  "Aeroporto ": "NVT",
+  "Distância": 59
+ },
+ {
+  "Destino Turístico": "Pomerode",
+  "Aeroporto ": "NVT",
+  "Distância": 74
+ },
+ {
+  "Destino Turístico": "Nova Trento",
+  "Aeroporto ": "NVT",
+  "Distância": 77
+ },
+ {
+  "Destino Turístico": "Piçarras",
+  "Aeroporto ": "NVT",
+  "Distância": 19
+ },
+ {
+  "Destino Turístico": "Itá",
+  "Aeroporto ": "XAP",
+  "Distância": 72
+ },
+ {
+  "Destino Turístico": "Balneário Camboriu",
+  "Aeroporto ": "NVT",
+  "Distância": 34
+ },
+ {
+  "Destino Turístico": "Bombas",
+  "Aeroporto ": "NVT",
+  "Distância": 64
+ },
+ {
+  "Destino Turístico": "Bombinhas",
+  "Aeroporto ": "NVT",
+  "Distância": 66
+ },
+ {
+  "Destino Turístico": "Camboriu",
+  "Aeroporto ": "NVT",
+  "Distância": 34
+ },
+ {
+  "Destino Turístico": "Itajai",
+  "Aeroporto ": "NVT",
+  "Distância": 8
+ },
+ {
+  "Destino Turístico": "Itapema",
+  "Aeroporto ": "NVT",
+  "Distância": 45
+ },
+ {
+  "Destino Turístico": "Porto Belo",
+  "Aeroporto ": "NVT",
+  "Distância": 58
+ },
+ {
+  "Destino Turístico": "Penha",
+  "Aeroporto ": "NVT",
+  "Distância": 21
+ },
+ {
+  "Destino Turístico": "Navegantes",
+  "Aeroporto ": "NVT",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Ilhota",
+  "Aeroporto ": "NVT",
+  "Distância": 27
+ },
+ {
+  "Destino Turístico": "São José",
+  "Aeroporto ": "FLN",
+  "Distância": 21
+ },
+ {
+  "Destino Turístico": "Palhoça",
+  "Aeroporto ": "FLN",
+  "Distância": 32
+ },
+ {
+  "Destino Turístico": "Governador Celso Ramos",
+  "Aeroporto ": "FLN",
+  "Distância": 62
+ },
+ {
+  "Destino Turístico": "Tijucas",
+  "Aeroporto ": "NVT",
+  "Distância": 63
+ },
+ {
+  "Estado": "PR",
+  "Destino Turístico": "Curitiba",
+  "Aeroporto ": "CWB",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Londrina",
+  "Aeroporto ": "LDB",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Maringá",
+  "Aeroporto ": "MGF",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Foz do Iguaçu",
+  "Aeroporto ": "IGU",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Morretes",
+  "Aeroporto ": "CWB",
+  "Distância": 62
+ },
+ {
+  "Destino Turístico": "Paranagua",
+  "Aeroporto ": "CWB",
+  "Distância": 84
+ },
+ {
+  "Destino Turístico": "Caioba",
+  "Aeroporto ": "CWB",
+  "Distância": 106
+ },
+ {
+  "Destino Turístico": "Matinhos",
+  "Aeroporto ": "CWB",
+  "Distância": 104
+ },
+ {
+  "Destino Turístico": "Ilha do Mel",
+  "Aeroporto ": "CWB",
+  "Distância": 112
+ },
+ {
+  "Destino Turístico": "Ribeirão Claro",
+  "Aeroporto ": "LDB",
+  "Distância": 184
+ },
+ {
+  "Destino Turístico": "Pato Branco",
+  "Aeroporto ": "XAP",
+  "Distância": 148
+ },
+ {
+  "Destino Turístico": "Cascavel",
+  "Aeroporto ": "CAC",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Toledo",
+  "Aeroporto ": "CAC",
+  "Distância": 50
+ },
+ {
+  "Destino Turístico": "Guarapuava",
+  "Aeroporto ": "CWB",
+  "Distância": 271
+ },
+ {
+  "Destino Turístico": "Campo Mourão",
+  "Aeroporto ": "MGF",
+  "Distância": 78
+ },
+ {
+  "Destino Turístico": "Umuarama",
+  "Aeroporto ": "MGF",
+  "Distância": 161
+ },
+ {
+  "Destino Turístico": "Ponta Grossa",
+  "Aeroporto ": "PGZ",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Pontal Paraná",
+  "Aeroporto ": "CWB",
+  "Distância": 94
+ },
+ {
+  "Destino Turístico": "Guaratuba",
+  "Aeroporto ": "JOI",
+  "Distância": 71
+ },
+ {
+  "Destino Turístico": "Lapa",
+  "Aeroporto ": "CWB",
+  "Distância": 73
+ },
+ {
+  "Destino Turístico": "Antonina",
+  "Aeroporto ": "CWB",
+  "Distância": 76
+ },
+ {
+  "Destino Turístico": "Tibagi",
+  "Aeroporto ": "PGZ",
+  "Distância": 106
+ },
+ {
+  "Destino Turístico": "Castro",
+  "Aeroporto ": "PGZ",
+  "Distância": 55
+ },
+ {
+  "Destino Turístico": "Prudentopolis",
+  "Aeroporto ": "PGZ",
+  "Distância": 110
+ },
+ {
+  "Destino Turístico": "Iretama",
+  "Aeroporto ": "MGF",
+  "Distância": 144
+ },
+ {
+  "Estado": "SP",
+  "Destino Turístico": "Cananeia",
+  "Aeroporto ": "CGH",
+  "Distância": 258
+ },
+ {
+  "Destino Turístico": "Iguape",
+  "Aeroporto ": "CGH",
+  "Distância": 201
+ },
+ {
+  "Destino Turístico": "Ilha Comprida",
+  "Aeroporto ": "CGH",
+  "Distância": 207
+ },
+ {
+  "Destino Turístico": "Cardoso",
+  "Aeroporto ": "SJP",
+  "Distância": 120
+ },
+ {
+  "Destino Turístico": "Fernandopolis",
+  "Aeroporto ": "SJP",
+  "Distância": 114
+ },
+ {
+  "Destino Turístico": "Votuporanga",
+  "Aeroporto ": "SJP",
+  "Distância": 80
+ },
+ {
+  "Destino Turístico": "Santa Fé do Sul",
+  "Aeroporto ": "SJP",
+  "Distância": 186
+ },
+ {
+  "Destino Turístico": "Jales",
+  "Aeroporto ": "ARU",
+  "Distância": 112
+ },
+ {
+  "Destino Turístico": "Rubineia",
+  "Aeroporto ": "ARU",
+  "Distância": 161
+ },
+ {
+  "Destino Turístico": "Olimpia",
+  "Aeroporto ": "SJP",
+  "Distância": 57
+ },
+ {
+  "Destino Turístico": "Uchoa",
+  "Aeroporto ": "SJP",
+  "Distância": 38
+ },
+ {
+  "Destino Turístico": "Barretos",
+  "Aeroporto ": "SJP",
+  "Distância": 98
+ },
+ {
+  "Destino Turístico": "Bebedouro",
+  "Aeroporto ": "RAO",
+  "Distância": 98
+ },
+ {
+  "Destino Turístico": "Guaira",
+  "Aeroporto ": "RAO",
+  "Distância": 121
+ },
+ {
+  "Destino Turístico": "Batatais",
+  "Aeroporto ": "RAO",
+  "Distância": 39
+ },
+ {
+  "Destino Turístico": "Amparo",
+  "Aeroporto ": "VCP",
+  "Distância": 83
+ },
+ {
+  "Destino Turístico": "Aguas Santa Barbara",
+  "Aeroporto ": "JTC",
+  "Distância": 123
+ },
+ {
+  "Destino Turístico": "Brotas",
+  "Aeroporto ": "VCP",
+  "Distância": 169
+ },
+ {
+  "Destino Turístico": "Biritiba Mirim",
+  "Aeroporto ": "GRU",
+  "Distância": 68
+ },
+ {
+  "Destino Turístico": "Campinas",
+  "Aeroporto ": "VCP",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Igarapava",
+  "Aeroporto ": "UBA",
+  "Distância": 43
+ },
+ {
+  "Destino Turístico": "Igarata",
+  "Aeroporto ": "GRU",
+  "Distância": 76
+ },
+ {
+  "Destino Turístico": "Itu",
+  "Aeroporto ": "VCP",
+  "Distância": 40
+ },
+ {
+  "Destino Turístico": "Ituverava",
+  "Aeroporto ": "UBA",
+  "Distância": 75
+ },
+ {
+  "Destino Turístico": "Salto",
+  "Aeroporto ": "VCP",
+  "Distância": 28
+ },
+ {
+  "Destino Turístico": "Miguelopolis",
+  "Aeroporto ": "UBA",
+  "Distância": 85
+ },
+ {
+  "Destino Turístico": "Orlandia",
+  "Aeroporto ": "RAO",
+  "Distância": 54
+ },
+ {
+  "Destino Turístico": "Ilha Solteira",
+  "Aeroporto ": "ARU",
+  "Distância": 166
+ },
+ {
+  "Destino Turístico": "Sud Menucci",
+  "Aeroporto ": "ARU",
+  "Distância": 119
+ },
+ {
+  "Destino Turístico": "Araçatuba",
+  "Aeroporto ": "ARU",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Buritama",
+  "Aeroporto ": "ARU",
+  "Distância": 66
+ },
+ {
+  "Destino Turístico": "Ibirá",
+  "Aeroporto ": "SJP",
+  "Distância": 45
+ },
+ {
+  "Destino Turístico": "Novo Horizonte",
+  "Aeroporto ": "SJP",
+  "Distância": 92
+ },
+ {
+  "Destino Turístico": "Jaboticabal",
+  "Aeroporto ": "RAO",
+  "Distância": 69
+ },
+ {
+  "Destino Turístico": "Monte Alto",
+  "Aeroporto ": "RAO",
+  "Distância": 91
+ },
+ {
+  "Destino Turístico": "Sertãozinho",
+  "Aeroporto ": "RAO",
+  "Distância": 34
+ },
+ {
+  "Destino Turístico": "Altinopolis",
+  "Aeroporto ": "RAO",
+  "Distância": 63
+ },
+ {
+  "Destino Turístico": "São Simão",
+  "Aeroporto ": "RAO",
+  "Distância": 53
+ },
+ {
+  "Destino Turístico": "Aguas da Prata",
+  "Aeroporto ": "VCP",
+  "Distância": 155
+ },
+ {
+  "Destino Turístico": "Caconde",
+  "Aeroporto ": "RAO",
+  "Distância": 174
+ },
+ {
+  "Destino Turístico": "Espirito Santo Pinhal",
+  "Aeroporto ": "VCP",
+  "Distância": 122
+ },
+ {
+  "Destino Turístico": "Embu das Artes",
+  "Aeroporto ": "CGH",
+  "Distância": 31
+ },
+ {
+  "Destino Turístico": "Ilhabela",
+  "Aeroporto ": "GRU",
+  "Distância": 212
+ },
+ {
+  "Destino Turístico": "São João da Boa Vista",
+  "Aeroporto ": "VCP",
+  "Distância": 148
+ },
+ {
+  "Destino Turístico": "Itupeva",
+  "Aeroporto ": "VCP",
+  "Distância": 32
+ },
+ {
+  "Destino Turístico": "São Pedro",
+  "Aeroporto ": "VCP",
+  "Distância": 112
+ },
+ {
+  "Destino Turístico": "Jarinu",
+  "Aeroporto ": "VCP",
+  "Distância": 58
+ },
+ {
+  "Destino Turístico": "Lins",
+  "Aeroporto ": "LIP",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Mairiporã",
+  "Aeroporto ": "GRU",
+  "Distância": 40
+ },
+ {
+  "Destino Turístico": "Porto Feliz",
+  "Aeroporto ": "VCP",
+  "Distância": 60
+ },
+ {
+  "Destino Turístico": "Mogi das Cruzes",
+  "Aeroporto ": "GRU",
+  "Distância": 48
+ },
+ {
+  "Destino Turístico": "Santos",
+  "Aeroporto ": "CGH",
+  "Distância": 72
+ },
+ {
+  "Destino Turístico": "Sales ",
+  "Aeroporto ": "SJP",
+  "Distância": 75
+ },
+ {
+  "Destino Turístico": "Araras",
+  "Aeroporto ": "VCP",
+  "Distância": 90
+ },
+ {
+  "Destino Turístico": "Sorocaba",
+  "Aeroporto ": "VCP",
+  "Distância": 75
+ },
+ {
+  "Destino Turístico": "Santa Rita do Passa Quatro",
+  "Aeroporto ": "RAO",
+  "Distância": 88
+ },
+ {
+  "Destino Turístico": "Porto Ferreira",
+  "Aeroporto ": "RAO",
+  "Distância": 92
+ },
+ {
+  "Destino Turístico": "Taubate",
+  "Aeroporto ": "SJK",
+  "Distância": 44
+ },
+ {
+  "Destino Turístico": "Tambau",
+  "Aeroporto ": "RAO",
+  "Distância": 99
+ },
+ {
+  "Destino Turístico": "Torrinha",
+  "Aeroporto ": "VCP",
+  "Distância": 160
+ },
+ {
+  "Destino Turístico": "Itapura",
+  "Aeroporto ": "ARU",
+  "Distância": 168
+ },
+ {
+  "Destino Turístico": "Mogi Mirim",
+  "Aeroporto ": "VCP",
+  "Distância": 84
+ },
+ {
+  "Destino Turístico": "Araraquara",
+  "Aeroporto ": "RAO",
+  "Distância": 93
+ },
+ {
+  "Destino Turístico": "Itapolis",
+  "Aeroporto ": "JTC",
+  "Distância": 96
+ },
+ {
+  "Destino Turístico": "Tabatinga",
+  "Aeroporto ": "JTC",
+  "Distância": 96
+ },
+ {
+  "Destino Turístico": "Barra Bonita",
+  "Aeroporto ": "JTC",
+  "Distância": 96
+ },
+ {
+  "Destino Turístico": "Ibitinga",
+  "Aeroporto ": "JTC",
+  "Distância": 81
+ },
+ {
+  "Destino Turístico": "Bocaina",
+  "Aeroporto ": "JTC",
+  "Distância": 90
+ },
+ {
+  "Destino Turístico": "Dois Corregos",
+  "Aeroporto ": "JTC",
+  "Distância": 106
+ },
+ {
+  "Destino Turístico": "Jau",
+  "Aeroporto ": "JTC",
+  "Distância": 78
+ },
+ {
+  "Destino Turístico": "Mineiros do Tiete",
+  "Aeroporto ": "JTC",
+  "Distância": 97
+ },
+ {
+  "Destino Turístico": "Lins",
+  "Aeroporto ": "ARU",
+  "Distância": 108
+ },
+ {
+  "Destino Turístico": "Sabino",
+  "Aeroporto ": "ARU",
+  "Distância": 137
+ },
+ {
+  "Destino Turístico": "Tupã",
+  "Aeroporto ": "MII",
+  "Distância": 76
+ },
+ {
+  "Destino Turístico": "Adamantina",
+  "Aeroporto ": "PPB",
+  "Distância": 87
+ },
+ {
+  "Destino Turístico": "Rancharia",
+  "Aeroporto ": "PPB",
+  "Distância": 62
+ },
+ {
+  "Destino Turístico": "Garça",
+  "Aeroporto ": "MII",
+  "Distância": 35
+ },
+ {
+  "Destino Turístico": "Marilia",
+  "Aeroporto ": "MII",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Agudos",
+  "Aeroporto ": "JTC",
+  "Distância": 39
+ },
+ {
+  "Destino Turístico": "Lençois Paulista",
+  "Aeroporto ": "JTC",
+  "Distância": 64
+ },
+ {
+  "Destino Turístico": "Bertioga",
+  "Aeroporto ": "GRU",
+  "Distância": 98
+ },
+ {
+  "Destino Turístico": "Caraguatatuba",
+  "Aeroporto ": "SJK",
+  "Distância": 84
+ },
+ {
+  "Destino Turístico": "Ubatuba",
+  "Aeroporto ": "SJK",
+  "Distância": 136
+ },
+ {
+  "Destino Turístico": "São Sebastião",
+  "Aeroporto ": "SJK",
+  "Distância": 107
+ },
+ {
+  "Destino Turístico": "Ilha Bela",
+  "Aeroporto ": "SJK",
+  "Distância": 112
+ },
+ {
+  "Destino Turístico": "Aparecida",
+  "Aeroporto ": "SJK",
+  "Distância": 81
+ },
+ {
+  "Destino Turístico": "Cunha",
+  "Aeroporto ": "SJK",
+  "Distância": 134
+ },
+ {
+  "Destino Turístico": "Guaratinguetá",
+  "Aeroporto ": "SJK",
+  "Distância": 88
+ },
+ {
+  "Destino Turístico": "Guarujá",
+  "Aeroporto ": "CGH",
+  "Distância": 89
+ },
+ {
+  "Destino Turístico": "Santos",
+  "Aeroporto ": "CGH",
+  "Distância": 72
+ },
+ {
+  "Destino Turístico": "Cachoeiro Paulista",
+  "Aeroporto ": "SJK",
+  "Distância": 114
+ },
+ {
+  "Destino Turístico": "Paraibuna",
+  "Aeroporto ": "SJK",
+  "Distância": 33
+ },
+ {
+  "Destino Turístico": "Sao Luiz Paraitinga",
+  "Aeroporto ": "SJK",
+  "Distância": 83
+ },
+ {
+  "Destino Turístico": "Jacarei",
+  "Aeroporto ": "SJK",
+  "Distância": 22
+ },
+ {
+  "Destino Turístico": "Campos do Jordão",
+  "Aeroporto ": "SJK",
+  "Distância": 83
+ },
+ {
+  "Destino Turístico": "Santo Antonio do Pinhal ",
+  "Aeroporto ": "SJK",
+  "Distância": 83
+ },
+ {
+  "Destino Turístico": "Monteiro Lobato",
+  "Aeroporto ": "SJK",
+  "Distância": 40
+ },
+ {
+  "Destino Turístico": "São Bento do Sapucai",
+  "Aeroporto ": "SJK",
+  "Distância": 102
+ },
+ {
+  "Destino Turístico": "Bragança Paulista",
+  "Aeroporto ": "VCP",
+  "Distância": 85
+ },
+ {
+  "Destino Turístico": "Atibaia",
+  "Aeroporto ": "GRU",
+  "Distância": 66
+ },
+ {
+  "Destino Turístico": "Piracaia",
+  "Aeroporto ": "GRU",
+  "Distância": 76
+ },
+ {
+  "Destino Turístico": "Joanopolis",
+  "Aeroporto ": "GRU",
+  "Distância": 102
+ },
+ {
+  "Destino Turístico": "Nazare Paulista",
+  "Aeroporto ": "GRU",
+  "Distância": 47
+ },
+ {
+  "Destino Turístico": "Salesopolis",
+  "Aeroporto ": "SJK",
+  "Distância": 52
+ },
+ {
+  "Destino Turístico": "Itanhahem",
+  "Aeroporto ": "CGH",
+  "Distância": 104
+ },
+ {
+  "Destino Turístico": "Monguagua",
+  "Aeroporto ": "CGH",
+  "Distância": 88
+ },
+ {
+  "Destino Turístico": "Peruibe",
+  "Aeroporto ": "CGH",
+  "Distância": 131
+ },
+ {
+  "Destino Turístico": "Praia Grande",
+  "Aeroporto ": "CGH",
+  "Distância": 69
+ },
+ {
+  "Destino Turístico": "São Vicente",
+  "Aeroporto ": "CGH",
+  "Distância": 64
+ },
+ {
+  "Destino Turístico": "São Roque",
+  "Aeroporto ": "CGH",
+  "Distância": 62
+ },
+ {
+  "Destino Turístico": "Cabreuva",
+  "Aeroporto ": "VCP",
+  "Distância": 60
+ },
+ {
+  "Destino Turístico": "Itatiba",
+  "Aeroporto ": "VCP",
+  "Distância": 42
+ },
+ {
+  "Destino Turístico": "Piedade",
+  "Aeroporto ": "CGH",
+  "Distância": 101
+ },
+ {
+  "Destino Turístico": "Aguas de Santa Barbara",
+  "Aeroporto ": "VCP",
+  "Distância": 270
+ },
+ {
+  "Destino Turístico": "Aguas de São Pedro",
+  "Aeroporto ": "VCP",
+  "Distância": 105
+ },
+ {
+  "Destino Turístico": "Aguas de Lindoia",
+  "Aeroporto ": "VCP",
+  "Distância": 124
+ },
+ {
+  "Destino Turístico": "Serra Negra",
+  "Aeroporto ": "VCP",
+  "Distância": 102
+ },
+ {
+  "Destino Turístico": "Avaré",
+  "Aeroporto ": "VCP",
+  "Distância": 240
+ },
+ {
+  "Destino Turístico": "Maresias",
+  "Aeroporto ": "SJK",
+  "Distância": 133
+ },
+ {
+  "Destino Turístico": "Boiçucanga",
+  "Aeroporto ": "GRU",
+  "Distância": 145
+ },
+ {
+  "Destino Turístico": "Barra do Sahy",
+  "Aeroporto ": "GRU",
+  "Distância": 137
+ },
+ {
+  "Destino Turístico": "Barra do Una",
+  "Aeroporto ": "GRU",
+  "Distância": 127
+ },
+ {
+  "Destino Turístico": "Juquei",
+  "Aeroporto ": "GRU",
+  "Distância": 133
+ },
+ {
+  "Destino Turístico": "Boraceia",
+  "Aeroporto ": "GRU",
+  "Distância": 120
+ },
+ {
+  "Destino Turístico": "Guaratuba",
+  "Aeroporto ": "GRU",
+  "Distância": 109
+ },
+ {
+  "Destino Turístico": "Toque Toque",
+  "Aeroporto ": "SJK",
+  "Distância": 124
+ },
+ {
+  "Destino Turístico": "Paúba",
+  "Aeroporto ": "SJK",
+  "Distância": 132
+ },
+ {
+  "Destino Turístico": "Piraju",
+  "Aeroporto ": "JTC",
+  "Distância": 166
+ },
+ {
+  "Destino Turístico": "Santa Cruz do Rio Pardo",
+  "Aeroporto ": "JTC",
+  "Distância": 114
+ },
+ {
+  "Destino Turístico": "Boituva",
+  "Aeroporto ": "VCP",
+  "Distância": 81
+ },
+ {
+  "Destino Turístico": "Holambra",
+  "Aeroporto ": "VCP",
+  "Distância": 65
+ },
+ {
+  "Destino Turístico": "São Francisco Xavier",
+  "Aeroporto ": "SJK",
+  "Distância": 64
+ },
+ {
+  "Destino Turístico": "Vinhedo",
+  "Aeroporto ": "VCP",
+  "Distância": 22
+ },
+ {
+  "Destino Turístico": "Valinhos",
+  "Aeroporto ": "VCP",
+  "Distância": 23
+ },
+ {
+  "Destino Turístico": "Socorro",
+  "Aeroporto ": "VCP",
+  "Distância": 127
+ },
+ {
+  "Destino Turístico": "Juquitiba",
+  "Aeroporto ": "CGH",
+  "Distância": 73
+ },
+ {
+  "Destino Turístico": "Brotas",
+  "Aeroporto ": "JTC",
+  "Distância": 132
+ },
+ {
+  "Destino Turístico": "Cesario Lange",
+  "Aeroporto ": "VCP",
+  "Distância": 111
+ },
+ {
+  "Destino Turístico": "Porto Feliz",
+  "Aeroporto ": "VCP",
+  "Distância": 47
+ },
+ {
+  "Destino Turístico": "Tatui",
+  "Aeroporto ": "VCP",
+  "Distância": 102
+ },
+ {
+  "Destino Turístico": "Americana",
+  "Aeroporto ": "VCP",
+  "Distância": 49
+ },
+ {
+  "Destino Turístico": "Santa Barbara D´Oeste",
+  "Aeroporto ": "VCP",
+  "Distância": 58
+ },
+ {
+  "Destino Turístico": "Morungaba",
+  "Aeroporto ": "VCP",
+  "Distância": 63
+ },
+ {
+  "Destino Turístico": "Limeira",
+  "Aeroporto ": "VCP",
+  "Distância": 70
+ },
+ {
+  "Destino Turístico": "Itirapina",
+  "Aeroporto ": "VCP",
+  "Distância": 135
+ },
+ {
+  "Destino Turístico": "Ribeirão Preto",
+  "Aeroporto ": "RAO",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Analandia",
+  "Aeroporto ": "RAO",
+  "Distância": 140
+ },
+ {
+  "Estado": "AC",
+  "Destino Turístico": "Xapuri",
+  "Aeroporto ": "RBR",
+  "Distância": 209
+ },
+ {
+  "Destino Turístico": "Epitaciolandia",
+  "Aeroporto ": "RBR",
+  "Distância": 250
+ },
+ {
+  "Destino Turístico": "Assis Brasil",
+  "Aeroporto ": "RBR",
+  "Distância": 353
+ },
+ {
+  "Destino Turístico": "Porto Walter",
+  "Aeroporto ": "RBR",
+  "Distância": 619
+ },
+ {
+  "Destino Turístico": "Cruzeiro do Sul",
+  "Aeroporto ": "RBR",
+  "Distância": 619
+ },
+ {
+  "Destino Turístico": "Rodrigues Alves",
+  "Aeroporto ": "RBR",
+  "Distância": 611
+ },
+ {
+  "Destino Turístico": "Rio Branco",
+  "Aeroporto ": "RBR",
+  "Distância": 0
+ },
+ {
+  "Estado": "AL",
+  "Destino Turístico": "Penedo",
+  "Aeroporto ": "AJU",
+  "Distância": 130
+ },
+ {
+  "Destino Turístico": "Barra de São Miguel",
+  "Aeroporto ": "MCZ",
+  "Distância": 49
+ },
+ {
+  "Destino Turístico": "Feliz Deserto",
+  "Aeroporto ": "MCZ",
+  "Distância": 140
+ },
+ {
+  "Destino Turístico": "Coruripe",
+  "Aeroporto ": "MCZ",
+  "Distância": 111
+ },
+ {
+  "Destino Turístico": "Arapiraca",
+  "Aeroporto ": "MCZ",
+  "Distância": 132
+ },
+ {
+  "Destino Turístico": "Palmeira dos Indios",
+  "Aeroporto ": "MCZ",
+  "Distância": 129
+ },
+ {
+  "Destino Turístico": "Marechal Deodoro",
+  "Aeroporto ": "MCZ",
+  "Distância": 52
+ },
+ {
+  "Destino Turístico": "São Miguel dos Milagres",
+  "Aeroporto ": "MCZ",
+  "Distância": 95
+ },
+ {
+  "Destino Turístico": "Porto de Pedras",
+  "Aeroporto ": "MCZ",
+  "Distância": 122
+ },
+ {
+  "Destino Turístico": "Maceió",
+  "Aeroporto ": "MCZ",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Japaritinga",
+  "Aeroporto ": "MCZ",
+  "Distância": 119
+ },
+ {
+  "Destino Turístico": "Maragogi",
+  "Aeroporto ": "MCZ",
+  "Distância": 128
+ },
+ {
+  "Estado": "AP",
+  "Destino Turístico": "Oiapoque",
+  "Aeroporto ": "MCP",
+  "Distância": 582
+ },
+ {
+  "Destino Turístico": "Macapá",
+  "Aeroporto ": "MCP",
+  "Distância": 0
+ },
+ {
+  "Estado": "AM",
+  "Destino Turístico": "Manaus",
+  "Aeroporto ": "MAO",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Coari",
+  "Aeroporto ": "MAO",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Presidente Figueredo",
+  "Aeroporto ": "MAO",
+  "Distância": 119
+ },
+ {
+  "Destino Turístico": "Anavilhanas",
+  "Aeroporto ": "MAO",
+  "Distância": 206
+ },
+ {
+  "Estado": "BA",
+  "Destino Turístico": "Mucuri",
+  "Aeroporto ": "BPS",
+  "Distância": 321
+ },
+ {
+  "Destino Turístico": "Alcobaça",
+  "Aeroporto ": "BPS",
+  "Distância": 232
+ },
+ {
+  "Destino Turístico": "Prado",
+  "Aeroporto ": "BPS",
+  "Distância": 207
+ },
+ {
+  "Destino Turístico": "Porto Seguro",
+  "Aeroporto ": "BPS",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Trancoso",
+  "Aeroporto ": "BPS",
+  "Distância": 78
+ },
+ {
+  "Destino Turístico": "Santa Cruz Cabralia",
+  "Aeroporto ": "BPS",
+  "Distância": 24
+ },
+ {
+  "Destino Turístico": "Una",
+  "Aeroporto ": "UNA",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Ilheus",
+  "Aeroporto ": "IOS",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Itacare",
+  "Aeroporto ": "IOS",
+  "Distância": 75
+ },
+ {
+  "Destino Turístico": "Cairu",
+  "Aeroporto ": "IOS",
+  "Distância": 183
+ },
+ {
+  "Destino Turístico": "Valença",
+  "Aeroporto ": "IOS",
+  "Distância": 190
+ },
+ {
+  "Destino Turístico": "Vitoria da Conquista",
+  "Aeroporto ": "VDC",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Costa do Sauipe",
+  "Aeroporto ": "SSA",
+  "Distância": 80
+ },
+ {
+  "Destino Turístico": "Curuipe",
+  "Aeroporto ": "BPS",
+  "Distância": 51
+ },
+ {
+  "Destino Turístico": "Marau",
+  "Aeroporto ": "IOS",
+  "Distância": 104
+ },
+ {
+  "Destino Turístico": "Guarajuba",
+  "Aeroporto ": "SSA",
+  "Distância": 44
+ },
+ {
+  "Destino Turístico": "Canavieiras",
+  "Aeroporto ": "IOS",
+  "Distância": 113
+ },
+ {
+  "Destino Turístico": "Itaparica",
+  "Aeroporto ": "SSA",
+  "Distância": 49
+ },
+ {
+  "Destino Turístico": "Santo Andre",
+  "Aeroporto ": "BPS",
+  "Distância": 37
+ },
+ {
+  "Destino Turístico": "Comandatuba",
+  "Aeroporto ": "IOS",
+  "Distância": 76
+ },
+ {
+  "Destino Turístico": "Imbassai",
+  "Aeroporto ": "SSA",
+  "Distância": 66
+ },
+ {
+  "Destino Turístico": "Praia do Forte",
+  "Aeroporto ": "SSA",
+  "Distância": 59
+ },
+ {
+  "Destino Turístico": "Morro de São Paulo",
+  "Aeroporto ": "IOS",
+  "Distância": 190
+ },
+ {
+  "Destino Turístico": "Boipeba",
+  "Aeroporto ": "IOS",
+  "Distância": 183
+ },
+ {
+  "Destino Turístico": "Arraial D´Ajuda",
+  "Aeroporto ": "BPS",
+  "Distância": 9
+ },
+ {
+  "Destino Turístico": "Jequié",
+  "Aeroporto ": "VDC",
+  "Distância": 168
+ },
+ {
+  "Destino Turístico": "Maragogipe",
+  "Aeroporto ": "SSA",
+  "Distância": 136
+ },
+ {
+  "Destino Turístico": "Lauro de Freitas",
+  "Aeroporto ": "SSA",
+  "Distância": 6
+ },
+ {
+  "Destino Turístico": "Simões Filho",
+  "Aeroporto ": "SSA",
+  "Distância": 22
+ },
+ {
+  "Destino Turístico": "Camaçari",
+  "Aeroporto ": "SSA",
+  "Distância": 34
+ },
+ {
+  "Destino Turístico": "Mata de São João",
+  "Aeroporto ": "SSA",
+  "Distância": 52
+ },
+ {
+  "Destino Turístico": "Conde",
+  "Aeroporto ": "AJU",
+  "Distância": 136
+ },
+ {
+  "Destino Turístico": "Feira de Santana",
+  "Aeroporto ": "FEC",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Paulo Afonso",
+  "Aeroporto ": "PAV",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Juazeiro",
+  "Aeroporto ": "PNZ",
+  "Distância": 12
+ },
+ {
+  "Destino Turístico": "Lençois  ",
+  "Aeroporto ": "LEC",
+  "Distância": 0
+ },
+ {
+  "Estado": "CE",
+  "Destino Turístico": "Aracati",
+  "Aeroporto ": "FOR",
+  "Distância": 167
+ },
+ {
+  "Destino Turístico": "Beberibe",
+  "Aeroporto ": "FOR",
+  "Distância": 83
+ },
+ {
+  "Destino Turístico": "Cascavel",
+  "Aeroporto ": "FOR",
+  "Distância": 62
+ },
+ {
+  "Destino Turístico": "Fortim",
+  "Aeroporto ": "FOR",
+  "Distância": 133
+ },
+ {
+  "Destino Turístico": "Amontada",
+  "Aeroporto ": "FOR",
+  "Distância": 176
+ },
+ {
+  "Destino Turístico": "Icapui",
+  "Aeroporto ": "FOR",
+  "Distância": 203
+ },
+ {
+  "Destino Turístico": "Maracanau",
+  "Aeroporto ": "FOR",
+  "Distância": 19
+ },
+ {
+  "Destino Turístico": "Caucaia",
+  "Aeroporto ": "FOR",
+  "Distância": 17
+ },
+ {
+  "Destino Turístico": "São Gonçalo Amarante",
+  "Aeroporto ": "FOR",
+  "Distância": 65
+ },
+ {
+  "Destino Turístico": "Paracuru",
+  "Aeroporto ": "FOR",
+  "Distância": 91
+ },
+ {
+  "Destino Turístico": "Itapipoca",
+  "Aeroporto ": "FOR",
+  "Distância": 146
+ },
+ {
+  "Destino Turístico": "Acarau",
+  "Aeroporto ": "JJD",
+  "Distância": 30
+ },
+ {
+  "Destino Turístico": "Cruz ",
+  "Aeroporto ": "JJD",
+  "Distância": 22
+ },
+ {
+  "Destino Turístico": "Jericoacoara",
+  "Aeroporto ": "JJD",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Camocim",
+  "Aeroporto ": "JJD",
+  "Distância": 92
+ },
+ {
+  "Destino Turístico": "Quixada",
+  "Aeroporto ": "FOR",
+  "Distância": 167
+ },
+ {
+  "Destino Turístico": "Trairi",
+  "Aeroporto ": "FOR",
+  "Distância": 127
+ },
+ {
+  "Destino Turístico": "Taiba",
+  "Aeroporto ": "FOR",
+  "Distância": 72
+ },
+ {
+  "Destino Turístico": "Sobral",
+  "Aeroporto ": "JJD",
+  "Distância": 139
+ },
+ {
+  "Destino Turístico": "Canoa Quebrada",
+  "Aeroporto ": "FOR",
+  "Distância": 160
+ },
+ {
+  "Destino Turístico": "Caninde",
+  "Aeroporto ": "FOR",
+  "Distância": 119
+ },
+ {
+  "Destino Turístico": "Aquiraz",
+  "Aeroporto ": "FOR",
+  "Distância": 32
+ },
+ {
+  "Destino Turístico": "Fortaleza",
+  "Aeroporto ": "FOR",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Juazeiro do Norte",
+  "Aeroporto ": "JDO",
+  "Distância": 0
+ },
+ {
+  "Estado": "ES",
+  "Destino Turístico": "Cachoeiro do Itapemirim",
+  "Aeroporto ": "VIX",
+  "Distância": 144
+ },
+ {
+  "Destino Turístico": "Anchieta",
+  "Aeroporto ": "VIX",
+  "Distância": 94
+ },
+ {
+  "Destino Turístico": "Guarapari",
+  "Aeroporto ": "VIX",
+  "Distância": 65
+ },
+ {
+  "Destino Turístico": "Marataizes",
+  "Aeroporto ": "VIX",
+  "Distância": 132
+ },
+ {
+  "Destino Turístico": "Vila Velha",
+  "Aeroporto ": "VIX",
+  "Distância": 13
+ },
+ {
+  "Destino Turístico": "Vitória",
+  "Aeroporto ": "VIX",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Domingos Martins",
+  "Aeroporto ": "VIX",
+  "Distância": 57
+ },
+ {
+  "Destino Turístico": "Serra  ",
+  "Aeroporto ": "VIX",
+  "Distância": 21
+ },
+ {
+  "Destino Turístico": "Aracruz",
+  "Aeroporto ": "VIX",
+  "Distância": 80
+ },
+ {
+  "Destino Turístico": "Colatina",
+  "Aeroporto ": "VIX",
+  "Distância": 130
+ },
+ {
+  "Destino Turístico": "Linhares",
+  "Aeroporto ": "VIX",
+  "Distância": 131
+ },
+ {
+  "Destino Turístico": "São Mateus",
+  "Aeroporto ": "VIX",
+  "Distância": 214
+ },
+ {
+  "Estado": "GO",
+  "Destino Turístico": "Uruaçu",
+  "Aeroporto ": "BSB",
+  "Distância": 269
+ },
+ {
+  "Destino Turístico": "Alto Paraíso",
+  "Aeroporto ": "BSB",
+  "Distância": 233
+ },
+ {
+  "Destino Turístico": "Formosa",
+  "Aeroporto ": "BSB",
+  "Distância": 88
+ },
+ {
+  "Destino Turístico": "Alexânia",
+  "Aeroporto ": "BSB",
+  "Distância": 82
+ },
+ {
+  "Destino Turístico": "Pirenopolis",
+  "Aeroporto ": "GYN",
+  "Distância": 124
+ },
+ {
+  "Destino Turístico": "Anapolis",
+  "Aeroporto ": "GYN",
+  "Distância": 54
+ },
+ {
+  "Destino Turístico": "Trindade",
+  "Aeroporto ": "GYN",
+  "Distância": 34
+ },
+ {
+  "Destino Turístico": "Caldas Novas",
+  "Aeroporto ": "GYN",
+  "Distância": 172
+ },
+ {
+  "Destino Turístico": "Goiania",
+  "Aeroporto ": "GYN",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Itumbiara",
+  "Aeroporto ": "UDI",
+  "Distância": 140
+ },
+ {
+  "Destino Turístico": "Rio Verde",
+  "Aeroporto ": "GYN",
+  "Distância": 243
+ },
+ {
+  "Destino Turístico": "Jataí",
+  "Aeroporto ": "GYN",
+  "Distância": 332
+ },
+ {
+  "Estado": "MA",
+  "Destino Turístico": "Barrerinhas",
+  "Aeroporto ": "SLZ",
+  "Distância": 248
+ },
+ {
+  "Destino Turístico": "Tutoia",
+  "Aeroporto ": "PHB",
+  "Distância": 123
+ },
+ {
+  "Destino Turístico": "Santa Ines",
+  "Aeroporto ": "SLZ",
+  "Distância": 242
+ },
+ {
+  "Destino Turístico": "São Luiz",
+  "Aeroporto ": "SLZ",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Imperatriz",
+  "Aeroporto ": "IMP",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Atins",
+  "Aeroporto ": "SLZ",
+  "Distância": 279
+ },
+ {
+  "Destino Turístico": "Balsas",
+  "Aeroporto ": "IMP",
+  "Distância": 390
+ },
+ {
+  "Estado": "MT",
+  "Destino Turístico": "Caceres",
+  "Aeroporto ": "CGB",
+  "Distância": 216
+ },
+ {
+  "Destino Turístico": "Poconé",
+  "Aeroporto ": "CGB",
+  "Distância": 99
+ },
+ {
+  "Destino Turístico": "Varzea Grande",
+  "Aeroporto ": "CGB",
+  "Distância": 2
+ },
+ {
+  "Destino Turístico": "Chapada Guimarães",
+  "Aeroporto ": "CGB",
+  "Distância": 189
+ },
+ {
+  "Destino Turístico": "Tangará da Serra",
+  "Aeroporto ": "CGB",
+  "Distância": 237
+ },
+ {
+  "Destino Turístico": "Primavera do Leste",
+  "Aeroporto ": "CGB",
+  "Distância": 243
+ },
+ {
+  "Destino Turístico": "Barra das Garças",
+  "Aeroporto ": "GYN",
+  "Distância": 385
+ },
+ {
+  "Destino Turístico": "Sorriso",
+  "Aeroporto ": "SMT",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Sinop",
+  "Aeroporto ": "OPS",
+  "Distância": 0
+ },
+ {
+  "Estado": "MS",
+  "Destino Turístico": "Ponta Porã",
+  "Aeroporto ": "PMG",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Dourados",
+  "Aeroporto ": "PMG",
+  "Distância": 118
+ },
+ {
+  "Destino Turístico": "Bonito",
+  "Aeroporto ": "CGR",
+  "Distância": 255
+ },
+ {
+  "Destino Turístico": "Corumbá",
+  "Aeroporto ": "CGR",
+  "Distância": 421
+ },
+ {
+  "Destino Turístico": "Coxim",
+  "Aeroporto ": "ROO",
+  "Distância": 228
+ },
+ {
+  "Destino Turístico": "Rondonopolis",
+  "Aeroporto ": "ROO",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Três Lagoas",
+  "Aeroporto ": "ARU",
+  "Distância": 158
+ },
+ {
+  "Estado": "MG",
+  "Destino Turístico": "Camanducaia",
+  "Aeroporto ": "VCP",
+  "Distância": 142
+ },
+ {
+  "Destino Turístico": "Caxambu",
+  "Aeroporto ": "JDF",
+  "Distância": 205
+ },
+ {
+  "Destino Turístico": "São Lourenço",
+  "Aeroporto ": "JDF",
+  "Distância": 233
+ },
+ {
+  "Destino Turístico": "Lambari",
+  "Aeroporto ": "JDF",
+  "Distância": 261
+ },
+ {
+  "Destino Turístico": "Pouso Alegre",
+  "Aeroporto ": "SJK",
+  "Distância": 162
+ },
+ {
+  "Destino Turístico": "Itajuba",
+  "Aeroporto ": "SJK",
+  "Distância": 171
+ },
+ {
+  "Destino Turístico": "Varginha",
+  "Aeroporto ": "SJK",
+  "Distância": 286
+ },
+ {
+  "Destino Turístico": "Itapeva",
+  "Aeroporto ": "GRU",
+  "Distância": 125
+ },
+ {
+  "Destino Turístico": "Pouso Alto",
+  "Aeroporto ": "SJK",
+  "Distância": 183
+ },
+ {
+  "Destino Turístico": "Virginia",
+  "Aeroporto ": "SJK",
+  "Distância": 196
+ },
+ {
+  "Destino Turístico": "Poços de Caldas",
+  "Aeroporto ": "VCP",
+  "Distância": 188
+ },
+ {
+  "Destino Turístico": "Juiz de Fora",
+  "Aeroporto ": "JDF",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "São João del Rei",
+  "Aeroporto ": "JDF",
+  "Distância": 160
+ },
+ {
+  "Destino Turístico": "Barbacena",
+  "Aeroporto ": "JDF",
+  "Distância": 103
+ },
+ {
+  "Destino Turístico": "Tiradentes",
+  "Aeroporto ": "JDF",
+  "Distância": 156
+ },
+ {
+  "Destino Turístico": "Muriaé",
+  "Aeroporto ": "JDF",
+  "Distância": 168
+ },
+ {
+  "Destino Turístico": "Conselheiro Lafayete",
+  "Aeroporto ": "CNF",
+  "Distância": 142
+ },
+ {
+  "Destino Turístico": "Ouro Preto",
+  "Aeroporto ": "CNF",
+  "Distância": 144
+ },
+ {
+  "Destino Turístico": "Mariana",
+  "Aeroporto ": "CNF",
+  "Distância": 158
+ },
+ {
+  "Destino Turístico": "Congonhas",
+  "Aeroporto ": "CNF",
+  "Distância": 123
+ },
+ {
+  "Destino Turístico": "Brumadinho",
+  "Aeroporto ": "CNF",
+  "Distância": 92
+ },
+ {
+  "Destino Turístico": "Lavras Novas",
+  "Aeroporto ": "CNF",
+  "Distância": 157
+ },
+ {
+  "Destino Turístico": "Nova Lima",
+  "Aeroporto ": "CNF",
+  "Distância": 70
+ },
+ {
+  "Destino Turístico": "Sete Lagoas",
+  "Aeroporto ": "CNF",
+  "Distância": 48
+ },
+ {
+  "Destino Turístico": "Lagoa Santa",
+  "Aeroporto ": "CNF",
+  "Distância": 14
+ },
+ {
+  "Destino Turístico": "Caeté",
+  "Aeroporto ": "CNF",
+  "Distância": 74
+ },
+ {
+  "Destino Turístico": "Ipatinga",
+  "Aeroporto ": "IPN",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Divinopolis",
+  "Aeroporto ": "CNF",
+  "Distância": 155
+ },
+ {
+  "Destino Turístico": "Governador Valadares",
+  "Aeroporto ": "GVR",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Manhuaçu",
+  "Aeroporto ": "GVR",
+  "Distância": 196
+ },
+ {
+  "Destino Turístico": "Patos de Minas",
+  "Aeroporto ": "AAX",
+  "Distância": 155
+ },
+ {
+  "Destino Turístico": "Araxá",
+  "Aeroporto ": "AAX",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Teofilo Otoni",
+  "Aeroporto ": "TFL",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Esmeraldas",
+  "Aeroporto ": "CNF",
+  "Distância": 49
+ },
+ {
+  "Destino Turístico": "Jaboticatubas",
+  "Aeroporto ": "CNF",
+  "Distância": 57
+ },
+ {
+  "Destino Turístico": "Cordisburgo",
+  "Aeroporto ": "CNF",
+  "Distância": 96
+ },
+ {
+  "Destino Turístico": "Capim Branco",
+  "Aeroporto ": "CNF",
+  "Distância": 28
+ },
+ {
+  "Destino Turístico": "Matozinhos",
+  "Aeroporto ": "CNF",
+  "Distância": 22
+ },
+ {
+  "Destino Turístico": "Igarapé",
+  "Aeroporto ": "CNF",
+  "Distância": 84
+ },
+ {
+  "Destino Turístico": "Confins",
+  "Aeroporto ": "CNF",
+  "Distância": 10
+ },
+ {
+  "Destino Turístico": "Paraopeba",
+  "Aeroporto ": "CNF",
+  "Distância": 82
+ },
+ {
+  "Destino Turístico": "Caetanopolis",
+  "Aeroporto ": "CNF",
+  "Distância": 83
+ },
+ {
+  "Destino Turístico": "Carandai",
+  "Aeroporto ": "JDF",
+  "Distância": 132
+ },
+ {
+  "Destino Turístico": "Florestal",
+  "Aeroporto ": "CNF",
+  "Distância": 102
+ },
+ {
+  "Destino Turístico": "Acurui",
+  "Aeroporto ": "CNF",
+  "Distância": 120
+ },
+ {
+  "Destino Turístico": "Merces",
+  "Aeroporto ": "JDF",
+  "Distância": 114
+ },
+ {
+  "Destino Turístico": "Curvelo",
+  "Aeroporto ": "CNF",
+  "Distância": 137
+ },
+ {
+  "Destino Turístico": "Diamantina",
+  "Aeroporto ": "MOC",
+  "Distância": 231
+ },
+ {
+  "Destino Turístico": "Montes Claros",
+  "Aeroporto ": "MOC",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Aiuroca",
+  "Aeroporto ": "JDF",
+  "Distância": 180
+ },
+ {
+  "Destino Turístico": "Augusto de Lima",
+  "Aeroporto ": "MOC",
+  "Distância": 176
+ },
+ {
+  "Destino Turístico": "Mirabela",
+  "Aeroporto ": "MOC",
+  "Distância": 71
+ },
+ {
+  "Destino Turístico": "São Tiago",
+  "Aeroporto ": "CNF",
+  "Distância": 236
+ },
+ {
+  "Destino Turístico": "Rio Acima",
+  "Aeroporto ": "CNF",
+  "Distância": 77
+ },
+ {
+  "Destino Turístico": "Moeda",
+  "Aeroporto ": "CNF",
+  "Distância": 102
+ },
+ {
+  "Destino Turístico": "Funilandia",
+  "Aeroporto ": "CNF",
+  "Distância": 52
+ },
+ {
+  "Destino Turístico": "Itauna",
+  "Aeroporto ": "CNF",
+  "Distância": 118
+ },
+ {
+  "Destino Turístico": "Paracatu",
+  "Aeroporto ": "BSB",
+  "Distância": 224
+ },
+ {
+  "Destino Turístico": "Unai",
+  "Aeroporto ": "BSB",
+  "Distância": 169
+ },
+ {
+  "Destino Turístico": "Gonçalves",
+  "Aeroporto ": "SJK",
+  "Distância": 122
+ },
+ {
+  "Destino Turístico": "Monte Verde",
+  "Aeroporto ": "VCP",
+  "Distância": 175
+ },
+ {
+  "Destino Turístico": "Extrema",
+  "Aeroporto ": "VCP",
+  "Distância": 118
+ },
+ {
+  "Destino Turístico": "Monte Sião",
+  "Aeroporto ": "VCP",
+  "Distância": 134
+ },
+ {
+  "Destino Turístico": "Bueno Brandão",
+  "Aeroporto ": "VCP",
+  "Distância": 160
+ },
+ {
+  "Destino Turístico": "Ouro Fino",
+  "Aeroporto ": "VCP",
+  "Distância": 156
+ },
+ {
+  "Destino Turístico": "Andradas",
+  "Aeroporto ": "VCP",
+  "Distância": 145
+ },
+ {
+  "Destino Turístico": "Baependi",
+  "Aeroporto ": "SJK",
+  "Distância": 220
+ },
+ {
+  "Destino Turístico": "São Tome das Letras",
+  "Aeroporto ": "JDF",
+  "Distância": 230
+ },
+ {
+  "Destino Turístico": "Três Corações",
+  "Aeroporto ": "JDF",
+  "Distância": 278
+ },
+ {
+  "Destino Turístico": "Machado",
+  "Aeroporto ": "VCP",
+  "Distância": 269
+ },
+ {
+  "Destino Turístico": "Alfenas",
+  "Aeroporto ": "RAO",
+  "Distância": 260
+ },
+ {
+  "Destino Turístico": "Guaxupé",
+  "Aeroporto ": "RAO",
+  "Distância": 165
+ },
+ {
+  "Destino Turístico": "São Sebastião do Paraíso",
+  "Aeroporto ": "RAO",
+  "Distância": 111
+ },
+ {
+  "Destino Turístico": "Furnas",
+  "Aeroporto ": "RAO",
+  "Distância": 196
+ },
+ {
+  "Destino Turístico": "Capitólio",
+  "Aeroporto ": "RAO",
+  "Distância": 236
+ },
+ {
+  "Destino Turístico": "Delfinopolis",
+  "Aeroporto ": "RAO",
+  "Distância": 173
+ },
+ {
+  "Destino Turístico": "Nanuque",
+  "Aeroporto ": "TFL",
+  "Distância": 164
+ },
+ {
+  "Destino Turístico": "Salinas",
+  "Aeroporto ": "IAL",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Januaria",
+  "Aeroporto ": "MOC",
+  "Distância": 172
+ },
+ {
+  "Estado": "PA",
+  "Destino Turístico": "Altamira",
+  "Aeroporto ": "ATM",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "São Felix do Xingu",
+  "Aeroporto ": "CKS",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Redenção",
+  "Aeroporto ": "MAB",
+  "Distância": 355
+ },
+ {
+  "Destino Turístico": "Conceição do Araguaia",
+  "Aeroporto ": "PMW",
+  "Distância": 323
+ },
+ {
+  "Destino Turístico": "Paraupebas",
+  "Aeroporto ": "MAB",
+  "Distância": 170
+ },
+ {
+  "Destino Turístico": "Santarém",
+  "Aeroporto ": "STM",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Belém",
+  "Aeroporto ": "BEL",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Paragominas",
+  "Aeroporto ": "BEL",
+  "Distância": 287
+ },
+ {
+  "Destino Turístico": "Alter do Chão",
+  "Aeroporto ": "STM",
+  "Distância": 34
+ },
+ {
+  "Destino Turístico": "Castanhal",
+  "Aeroporto ": "BEL",
+  "Distância": 72
+ },
+ {
+  "Destino Turístico": "Barcarena",
+  "Aeroporto ": "BEL",
+  "Distância": 108
+ },
+ {
+  "Estado": "PB",
+  "Destino Turístico": "Conde",
+  "Aeroporto ": "JPA",
+  "Distância": 24
+ },
+ {
+  "Destino Turístico": "Souza",
+  "Aeroporto ": "JDO",
+  "Distância": 166
+ },
+ {
+  "Destino Turístico": "Campina Grande",
+  "Aeroporto ": "CPV",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "João Pessoa",
+  "Aeroporto ": "JPA",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Pitimbu",
+  "Aeroporto ": "JPA",
+  "Distância": 62
+ },
+ {
+  "Destino Turístico": "Cabedelo",
+  "Aeroporto ": "JPA",
+  "Distância": 28
+ },
+ {
+  "Destino Turístico": "Lucena",
+  "Aeroporto ": "JPA",
+  "Distância": 42
+ },
+ {
+  "Destino Turístico": "Bayeux",
+  "Aeroporto ": "JPA",
+  "Distância": 4
+ },
+ {
+  "Estado": "PE",
+  "Destino Turístico": "Ipojuca",
+  "Aeroporto ": "REC",
+  "Distância": 40
+ },
+ {
+  "Destino Turístico": "Porto de Galinhas",
+  "Aeroporto ": "REC",
+  "Distância": 52
+ },
+ {
+  "Destino Turístico": "Recife",
+  "Aeroporto ": "REC",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Paulista",
+  "Aeroporto ": "REC",
+  "Distância": 30
+ },
+ {
+  "Destino Turístico": "Olinda",
+  "Aeroporto ": "REC",
+  "Distância": 22
+ },
+ {
+  "Destino Turístico": "Tamandaré",
+  "Aeroporto ": "REC",
+  "Distância": 94
+ },
+ {
+  "Destino Turístico": "São Jose Coroa Grande",
+  "Aeroporto ": "REC",
+  "Distância": 106
+ },
+ {
+  "Destino Turístico": "Cabo de Santo Agostinho",
+  "Aeroporto ": "REC",
+  "Distância": 24
+ },
+ {
+  "Destino Turístico": "Jaboatão Guararapes",
+  "Aeroporto ": "REC",
+  "Distância": 6
+ },
+ {
+  "Destino Turístico": "Gravatá",
+  "Aeroporto ": "REC",
+  "Distância": 90
+ },
+ {
+  "Destino Turístico": "Caruaru",
+  "Aeroporto ": "CAU",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Petrolina",
+  "Aeroporto ": "PNZ",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Goiana",
+  "Aeroporto ": "REC",
+  "Distância": 76
+ },
+ {
+  "Estado": "PI",
+  "Destino Turístico": "Teresina",
+  "Aeroporto ": "THE",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Parnaiba",
+  "Aeroporto ": "PHB",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Luis Correa",
+  "Aeroporto ": "PHB",
+  "Distância": 10
+ },
+ {
+  "Destino Turístico": "Floriano",
+  "Aeroporto ": "THE",
+  "Distância": 253
+ },
+ {
+  "Estado": "RJ",
+  "Destino Turístico": "Rio de Janeiro",
+  "Aeroporto ": "SDU",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Niteroi",
+  "Aeroporto ": "SDU",
+  "Distância": 21
+ },
+ {
+  "Destino Turístico": "Angra dos Reis",
+  "Aeroporto ": "SDU",
+  "Distância": 157
+ },
+ {
+  "Destino Turístico": "Paraty",
+  "Aeroporto ": "SDU",
+  "Distância": 250
+ },
+ {
+  "Destino Turístico": "Petropolis",
+  "Aeroporto ": "GIG",
+  "Distância": 56
+ },
+ {
+  "Destino Turístico": "Teresopolis",
+  "Aeroporto ": "GIG",
+  "Distância": 85
+ },
+ {
+  "Destino Turístico": "Cabo Frio",
+  "Aeroporto ": "CFB",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Armação de Buzios",
+  "Aeroporto ": "CFB",
+  "Distância": 34
+ },
+ {
+  "Destino Turístico": "Macaé",
+  "Aeroporto ": "CFB",
+  "Distância": 88
+ },
+ {
+  "Destino Turístico": "Resende",
+  "Aeroporto ": "GIG",
+  "Distância": 157
+ },
+ {
+  "Destino Turístico": "São João da Barra",
+  "Aeroporto ": "GIG",
+  "Distância": 316
+ },
+ {
+  "Destino Turístico": "Itatiaia",
+  "Aeroporto ": "GIG",
+  "Distância": 168
+ },
+ {
+  "Destino Turístico": "Barra do Pirai",
+  "Aeroporto ": "GIG",
+  "Distância": 119
+ },
+ {
+  "Destino Turístico": "Valença",
+  "Aeroporto ": "GIG",
+  "Distância": 146
+ },
+ {
+  "Destino Turístico": "Itaguai",
+  "Aeroporto ": "GIG",
+  "Distância": 64
+ },
+ {
+  "Destino Turístico": "Mangaratiba",
+  "Aeroporto ": "SDU",
+  "Distância": 106
+ },
+ {
+  "Destino Turístico": "Ilha Grande",
+  "Aeroporto ": "SDU",
+  "Distância": 157
+ },
+ {
+  "Destino Turístico": "Saquarema",
+  "Aeroporto ": "CFB",
+  "Distância": 48
+ },
+ {
+  "Destino Turístico": "Araruama",
+  "Aeroporto ": "CFB",
+  "Distância": 45
+ },
+ {
+  "Destino Turístico": "Arraial do Cabo",
+  "Aeroporto ": "CFB",
+  "Distância": 10
+ },
+ {
+  "Destino Turístico": "Rio das Ostras",
+  "Aeroporto ": "CFB",
+  "Distância": 57
+ },
+ {
+  "Destino Turístico": "Nova Friburgo",
+  "Aeroporto ": "SDU",
+  "Distância": 141
+ },
+ {
+  "Destino Turístico": "Maricá",
+  "Aeroporto ": "SDU",
+  "Distância": 61
+ },
+ {
+  "Destino Turístico": "Vassouras",
+  "Aeroporto ": "GIG",
+  "Distância": 114
+ },
+ {
+  "Destino Turístico": "Barra Mansa",
+  "Aeroporto ": "GIG",
+  "Distância": 127
+ },
+ {
+  "Estado": "RN",
+  "Destino Turístico": "Natal",
+  "Aeroporto ": "NAT",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Tibau do Sul",
+  "Aeroporto ": "NAT",
+  "Distância": 95
+ },
+ {
+  "Destino Turístico": "Pipa",
+  "Aeroporto ": "NAT",
+  "Distância": 98
+ },
+ {
+  "Destino Turístico": "São Miguel Gostoso",
+  "Aeroporto ": "NAT",
+  "Distância": 101
+ },
+ {
+  "Destino Turístico": "Touros",
+  "Aeroporto ": "NAT",
+  "Distância": 86
+ },
+ {
+  "Destino Turístico": "Maracajau",
+  "Aeroporto ": "NAT",
+  "Distância": 59
+ },
+ {
+  "Destino Turístico": "Caicó",
+  "Aeroporto ": "MVF",
+  "Distância": 192
+ },
+ {
+  "Destino Turístico": "Camuripim",
+  "Aeroporto ": "NAT",
+  "Distância": 61
+ },
+ {
+  "Destino Turístico": "Mossoró",
+  "Aeroporto ": "MVF",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Baia Formosa",
+  "Aeroporto ": "NAT",
+  "Distância": 112
+ },
+ {
+  "Destino Turístico": "Parnamirim",
+  "Aeroporto ": "NAT",
+  "Distância": 34
+ },
+ {
+  "Destino Turístico": "Areia Branca",
+  "Aeroporto ": "MVF",
+  "Distância": 52
+ },
+ {
+  "Estado": "RO",
+  "Destino Turístico": "Vilhena",
+  "Aeroporto ": "PVH",
+  "Distância": 710
+ },
+ {
+  "Destino Turístico": "Cacoal",
+  "Aeroporto ": "PVH",
+  "Distância": 484
+ },
+ {
+  "Destino Turístico": "Porto Velho",
+  "Aeroporto ": "PVH",
+  "Distância": 0
+ },
+ {
+  "Estado": "RR",
+  "Destino Turístico": "Boa Vista",
+  "Aeroporto ": "BVB",
+  "Distância": 0
+ },
+ {
+  "Estado": "SE",
+  "Destino Turístico": "Aracaju",
+  "Aeroporto ": "AJU",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Estância",
+  "Aeroporto ": "AJU",
+  "Distância": 74
+ },
+ {
+  "Destino Turístico": "Barra dos Coqueiros",
+  "Aeroporto ": "AJU",
+  "Distância": 17
+ },
+ {
+  "Destino Turístico": "Pacatuba",
+  "Aeroporto ": "AJU",
+  "Distância": 105
+ },
+ {
+  "Destino Turístico": "São Cristovão",
+  "Aeroporto ": "AJU",
+  "Distância": 22
+ },
+ {
+  "Estado": "TO",
+  "Destino Turístico": "Palmas",
+  "Aeroporto ": "PMW",
+  "Distância": 0
+ },
+ {
+  "Destino Turístico": "Almas",
+  "Aeroporto ": "PMW",
+  "Distância": 294
+ },
+ {
+  "Destino Turístico": "Mateiros",
+  "Aeroporto ": "PMW",
+  "Distância": 303
+ },
+ {
+  "Destino Turístico": "Ponte Alta do Tocantins",
+  "Aeroporto ": "PMW",
+  "Distância": 144
+ },
+ {
+  "Destino Turístico": "Dianopolis",
+  "Aeroporto ": "PMW",
+  "Distância": 336
+ },
+ {
+  "Destino Turístico": "Gurupi",
+  "Aeroporto ": "PMW",
+  "Distância": 213
+ },
+ {
+  "Destino Turístico": "São Felix do Tocantins",
+  "Aeroporto ": "PMW",
+  "Distância": 251
+ },
+ {
+  "Destino Turístico": "Lizarda",
+  "Aeroporto ": "PMW",
+  "Distância": 280
+ },
+ {
+  "Destino Turístico": "Miracema do Tocantins",
+  "Aeroporto ": "PMW",
+  "Distância": 101
+ },
+ {
+  "Destino Turístico": "Tocantina",
+  "Aeroporto ": "PMW",
+  "Distância": 98
+ },
+ {
+  "Destino Turístico": "Paraiso do Tocantins",
+  "Aeroporto ": "PMW",
+  "Distância": 86
+ },
+ {
+  "Destino Turístico": "Porto Nacional",
+  "Aeroporto ": "PMW",
+  "Distância": 57
+ },
+ {
+  "Estado": "DF",
+  "Destino Turístico": "Brasilia",
+  "Aeroporto ": "BSB",
+  "Distância": 0
+ }
+]
